@@ -1,0 +1,115 @@
+#al {
+    
+    color: red;
+}
+
+
+body {
+    background-color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: 0.6px;
+    line-height: 27px;
+}
+
+
+
+
+
+#first {
+    background-color: rgba(255, 227, 174, 0.509);
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: 0.6px;
+    line-height: 27px;
+    text-align: center;
+    padding-top: 0px;
+    border:rgba(161, 136, 87, 0.282) solid 2px;
+    border-radius: 25px;
+    margin-top: 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 45px;
+
+    
+}
+
+#second {
+    background-color: wheat;
+    margin-left: 20px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 6px;
+    padding-right: 10px;
+    margin-right: 100px;
+    border: wheat solid 2px;
+    border-radius: 25px;
+    display: block;
+    float:left;
+}
+
+#third {
+    background-color: antiquewhite;
+    margin-left: 100px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 6px;
+    padding-right: 10px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+
+
+    margin-top: 50px;
+    border: orange solid 2px;
+    border-radius: 25px;
+    display: block;
+    float:right;
+    text-align: right;
+}
+
+
+
+.text {
+    text-align: center;
+}
+
+
+
+#btn {
+    text-decoration: none;
+    color:white;
+    background-color: steelblue;
+    border:rgba(70, 131, 180, 0.445) solid 2px ;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    border-radius: 25px;
+    text-align: center;
+    position: absolute;
+    top: 630px;
+    right: 85px;
+
+}
+
+h3 {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#name{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#pro {
+    position:relative;
+    
+}
+
+#introductory {
+    text-align: center;
+}
+
