@@ -113,3 +113,27 @@ h3 {
     text-align: center;
 }
 
+@media screen and (max-width: 600px) {
+
+    #btn {
+        text-decoration: none;
+        color:white;
+        background-color: steelblue;
+        border:rgba(70, 131, 180, 0.445) solid 2px ;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        font-size: 20px;
+        border-radius: 25px;
+        text-align: center;
+        position: fixed;
+        top: 850px;
+        right: 15px;
+    
+    }
+
+}
+
+
+
